@@ -6,7 +6,4 @@ seaborn
 shap
 xgboost
 imblearn
-fastapi
-uvicorn
-pydantic
-sqlalchemy
+
